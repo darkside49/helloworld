@@ -1,1 +1,2 @@
+clear
 print("hello world")
