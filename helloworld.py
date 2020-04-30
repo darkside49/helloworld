@@ -1,2 +1,1 @@
-clear
 print("hello world")
